@@ -1,3 +1,3 @@
 Hi everyone welcome to INFO 442.
-Merge conflicts are very annoying and only scometimes scary! Change
+Merge conflicts are very annoying and only scometimes scary! Change!
 Hopefully rebasing can help!
