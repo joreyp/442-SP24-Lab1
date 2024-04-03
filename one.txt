@@ -1,4 +1,4 @@
-Hi everyone welcome to INFO 442.
+Hi everyone welcome to INFO 442.!
 Merge conflicts are very annoying and only scometimes scary!!!
 Hopefully rebasing can help!
 CHanging line 4
